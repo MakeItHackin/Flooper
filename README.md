@@ -1,7 +1,7 @@
 # Super Duper Flipper Flooper
 
 ## PURCHASE A FLOOPER:
-https://www.tindie.com/products/30971/  or purchase at Hacker Warehouse at DEF CON 31 in the Vendor Area.
+https://www.tindie.com/products/30969/  or purchase at Hacker Warehouse at DEF CON 31 in the Vendor Area.
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
 TBD 
