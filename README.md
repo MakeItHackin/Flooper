@@ -1,5 +1,7 @@
 # Super Duper Flipper Flooper
 
+![alt text](https://raw.githubusercontent.com/MakeItHackin/Flooper/main/images/flooper_white.jpg)
+
 ## PURCHASE A FLOOPER:
 https://www.tindie.com/products/30969/  or purchase at Hacker Warehouse at DEF CON 31 in the Vendor Area.
 
