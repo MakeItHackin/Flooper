@@ -11,9 +11,13 @@ https://youtu.be/1sURsD3JWgw
 ## DESCRIPTION:  
 The Super Duper Flipper Flooper is an add-on for your Flipper Zero and transforms it into a Wearable Electronic Conference Badge.  It contains color-changing RGB LEDs, a display, 3D printed conference holder, and lanyard.  The Flooper features a "Flashy Mode" for walking around the conference, video game, and flashlight.  Stickers and Googly Eyes are also included :)  (Flipper Zero is not included and is only used in images for reference)
 
-Watch the YouTube Tutorial for a full walk-through and demonstration (coming soon)
+Watch the YouTube Tutorial for a full walk-through and demonstration.  
 
-The Flooper is powered from the 3.3 Volt power bus from the GPIO port on your Flipper Zero.  Only the positive voltage and ground pins are electrically connected.  
+There are two versions of the Flooper:  
+Version 2 (V2) is powered from the 3.3 Volt power bus from the GPIO port on your Flipper Zero.  This version is plug-and-play and no settings need to be adjusted on the Flipper Zero.  
+Version 1 is powered from the 5 Volt power bus from the GPIO port on your Flipper Zero and requires that the user turn on the 5 Volt GPIO setting each time the power is cycled on the Flipper Zero or Flooper.  Since most people don't fully turn off their Flipper, this situation doesn't need to happen much.  See the YouTube video for a demonstration between the two different voltage types.  
+
+Only the positive voltage and ground pins are electrically connected on the GPIO pins.  
 
 The Flooper runs on it's own microcontroller, therefore no programming is necessary and you don't need to load or configure any software.  It's plug and play!
 
