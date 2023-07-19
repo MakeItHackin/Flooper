@@ -6,7 +6,7 @@
 https://www.tindie.com/products/30969/  or purchase at Hacker Warehouse at DEF CON 31 in the Vendor Area.
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
-TBD 
+https://youtu.be/1sURsD3JWgw  
 
 ## DESCRIPTION:  
 The Super Duper Flipper Flooper is an add-on for your Flipper Zero and transforms it into a Wearable Electronic Conference Badge.  It contains color-changing RGB LEDs, a display, 3D printed conference holder, and lanyard.  The Flooper features a "Flashy Mode" for walking around the conference, video game, and flashlight.  Stickers and Googly Eyes are also included :)  (Flipper Zero is not included and is only used in images for reference)
